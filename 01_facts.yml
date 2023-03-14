@@ -1,5 +1,5 @@
 ---
-- name: Facts
+- name: Facts1
   hosts: linuxservers
 
   tasks:
